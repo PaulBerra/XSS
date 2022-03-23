@@ -1,6 +1,6 @@
-<center> 
+
                                                                              **XSS** 
-</center>
+
 
 Few famous XSS tool
 
